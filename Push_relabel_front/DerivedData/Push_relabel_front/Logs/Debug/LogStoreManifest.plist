@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>CCEA89C2-1AC6-4513-A36C-5028CBB42362</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CCEA89C2-1AC6-4513-A36C-5028CBB42362.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Push_relabel_front project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Push_relabel_front</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Push_relabel_front</string>
+			<key>timeStartedRecording</key>
+			<real>666524646.90181506</real>
+			<key>timeStoppedRecording</key>
+			<real>666524648.09897697</real>
+			<key>title</key>
+			<string>Debug Push_relabel_front</string>
+			<key>uniqueIdentifier</key>
+			<string>CCEA89C2-1AC6-4513-A36C-5028CBB42362</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

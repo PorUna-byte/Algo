@@ -1,0 +1,10 @@
+5 7
+s t
+s x y z t
+s 12 x
+s 14 y
+x 5 y
+y 8 z
+z 10 t
+z 7 x
+x 16 t

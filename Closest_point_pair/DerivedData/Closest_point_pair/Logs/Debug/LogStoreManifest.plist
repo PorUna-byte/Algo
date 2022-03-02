@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>D299E63D-37B2-49E4-BDB0-D95E6B42F88E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D299E63D-37B2-49E4-BDB0-D95E6B42F88E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Closest_point_pair project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Closest_point_pair</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Closest_point_pair</string>
+			<key>timeStartedRecording</key>
+			<real>667576092.26243198</real>
+			<key>timeStoppedRecording</key>
+			<real>667576099.24724495</real>
+			<key>title</key>
+			<string>Debug Closest_point_pair</string>
+			<key>uniqueIdentifier</key>
+			<string>D299E63D-37B2-49E4-BDB0-D95E6B42F88E</string>
+		</dict>
+		<key>E3D02FC7-00BE-4F6D-A57D-C5F56CC42554</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E3D02FC7-00BE-4F6D-A57D-C5F56CC42554.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Closest_point_pair project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Closest_point_pair</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Closest_point_pair</string>
+			<key>timeStartedRecording</key>
+			<real>667451265.05318296</real>
+			<key>timeStoppedRecording</key>
+			<real>667451266.15690994</real>
+			<key>title</key>
+			<string>Debug Closest_point_pair</string>
+			<key>uniqueIdentifier</key>
+			<string>E3D02FC7-00BE-4F6D-A57D-C5F56CC42554</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

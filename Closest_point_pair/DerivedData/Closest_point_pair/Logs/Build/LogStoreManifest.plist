@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3989F2C3-B41D-4779-9C82-3B7005391914</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3989F2C3-B41D-4779-9C82-3B7005391914.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Closest_point_pair project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Closest_point_pair</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Closest_point_pair</string>
+			<key>timeStartedRecording</key>
+			<real>667451264.56086898</real>
+			<key>timeStoppedRecording</key>
+			<real>667451265.06612003</real>
+			<key>title</key>
+			<string>Build Closest_point_pair</string>
+			<key>uniqueIdentifier</key>
+			<string>3989F2C3-B41D-4779-9C82-3B7005391914</string>
+		</dict>
+		<key>8ADC6EA4-D37B-482A-A3A4-88F93A65B55D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8ADC6EA4-D37B-482A-A3A4-88F93A65B55D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Closest_point_pair project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Closest_point_pair</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Closest_point_pair</string>
+			<key>timeStartedRecording</key>
+			<real>667576091.49226499</real>
+			<key>timeStoppedRecording</key>
+			<real>667576092.279212</real>
+			<key>title</key>
+			<string>Build Closest_point_pair</string>
+			<key>uniqueIdentifier</key>
+			<string>8ADC6EA4-D37B-482A-A3A4-88F93A65B55D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

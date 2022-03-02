@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DF7B801C34EE7A1B00FD385679AF901AF8427C99",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF7B801C34EE7A1B00FD385679AF901AF8427C99" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FD2C8C27-4113-480C-B07A-8E6BD5427423",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF7B801C34EE7A1B00FD385679AF901AF8427C99" : "Algorithms\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tencent_test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tencent_test\/Tencent_test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PorUna-byte\/Algo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF7B801C34EE7A1B00FD385679AF901AF8427C99"
+    }
+  ]
+}

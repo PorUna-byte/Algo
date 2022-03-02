@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DF7B801C34EE7A1B00FD385679AF901AF8427C99",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF7B801C34EE7A1B00FD385679AF901AF8427C99" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "09A429C6-8B73-486D-BBF6-25543E350D6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF7B801C34EE7A1B00FD385679AF901AF8427C99" : "Algorithms\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Closest_point_pair",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Closest_point_pair\/Closest_point_pair.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PorUna-byte\/Algo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF7B801C34EE7A1B00FD385679AF901AF8427C99"
+    }
+  ]
+}
